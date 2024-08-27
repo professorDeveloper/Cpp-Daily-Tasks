@@ -1,0 +1,25 @@
+# ninja log v6
+17	432	7461014031653267	CMakeFiles/untitled.dir/main.cpp.obj	5415b263565cf8d9
+17	279	7464873313110444	build.ninja	51d4cfba5db2469e
+10	376	7461121100496997	CMakeFiles/untitled.dir/tutorial.cpp.obj	d5a156f5b3b1eeb7
+16	565	7461024267397240	CMakeFiles/untitled.dir/task2.cpp.obj	78adab9e1423bb6a
+25	522	7463621484103259	CMakeFiles/untitled.dir/task4/task3.cpp.obj	2748dbd60bd2eb75
+401	483	7464051791735068	untitled.exe	a381ce28272308a1
+24	431	7464051140785340	CMakeFiles/untitled.dir/task4/task10.cpp.obj	129ea2f02c2098cf
+11	402	7461053330138109	CMakeFiles/untitled.dir/task6.cpp.obj	5af5581f9230b5e0
+30	1001	7461112016017986	CMakeFiles/untitled.dir/task3.cpp.obj	2a10e4c5d235ef3c
+17	591	7461053136165933	CMakeFiles/untitled.dir/task4.cpp.obj	5b401ef5f6b061ee
+23	697	7460312144582503	CMakeFiles/untitled.dir/dars3.cpp.obj	6fd9008f0230c59d
+22	598	7461053136215914	CMakeFiles/untitled.dir/task5.cpp.obj	66992f40596aa1d9
+16	468	7461056379928789	CMakeFiles/untitled.dir/task7.cpp.obj	3fb8443f44fcefd3
+23	999	7461112015946818	CMakeFiles/untitled.dir/task9.cpp.obj	1763949bcdf68f95
+19	674	7461120819069821	CMakeFiles/untitled.dir/task10.cpp.obj	586300b23e855333
+18	1001	7461112015900255	CMakeFiles/untitled.dir/task8.cpp.obj	363190249938b35c
+20	445	7461841506875172	CMakeFiles/untitled.dir/task4/task1.cpp.obj	bfb8b204267e94c2
+14	451	7463554385799139	CMakeFiles/untitled.dir/task4/task2.cpp.obj	6621ee51d5b61ec0
+11	451	7463627098092409	CMakeFiles/untitled.dir/task4/task4.cpp.obj	49f9a44d62409ab8
+10	466	7463631444486748	CMakeFiles/untitled.dir/task4/task5.cpp.obj	b8a59b8bbbf6e502
+11	441	7463634686701348	CMakeFiles/untitled.dir/task4/task6.cpp.obj	abc8f5cbee63cd3
+11	382	7463640337908552	CMakeFiles/untitled.dir/task4/task8.cpp.obj	38340eec31f67369
+10	381	7463644683273656	CMakeFiles/untitled.dir/task4/task9.cpp.obj	ae0a1219da0e4242
+22	401	7464051787941710	CMakeFiles/untitled.dir/task4/task11.cpp.obj	4768c72f19e2d507

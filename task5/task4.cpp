@@ -16,4 +16,6 @@ int main() {
     double netSpeedMb = 750 * 0.001;
     double resultTime = fileSizeMb / netSpeedMb;
     cout << "file download time: " << resultTime << endl;
+
+    return 0;
 }

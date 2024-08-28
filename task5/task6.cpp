@@ -18,7 +18,7 @@ int main() {
     cout << "Enter n:";
     cin >> n;
     float word = 5;
-    float result =  2.5 * n;
+    float result =  2.2 * n;
     cout << result / word << endl;
 
     return 0;

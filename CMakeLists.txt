@@ -4,5 +4,5 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled
-            task5/task5.cpp
+            task5/task6.cpp
 )

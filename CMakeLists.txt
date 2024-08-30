@@ -10,4 +10,5 @@ add_executable(untitled
         task6/task5.cpp
         task6/task6.cpp
         task6/task7.cpp
+        task6/task8.cpp
 )

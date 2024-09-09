@@ -21,5 +21,10 @@ int main() {
     float result =  2.2 * n;
     cout << result / word << endl;
 
+   int x = 2;
+    int y = x * x;
+    int z = y * y;
+    int w = z * y;
+    cout << w << endl;
     return 0;
 }

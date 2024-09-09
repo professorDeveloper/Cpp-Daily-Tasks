@@ -2,6 +2,7 @@
 // Created by azamov on 9/7/2024.
 //
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main() {
@@ -42,4 +43,5 @@ int main() {
     }
     cout << "Min : " << min << endl;
     cout << "Max : " << max << endl;
+
 }

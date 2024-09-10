@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled
 
-        task9/task9.cpp
+        task10/task9.cpp
+        task10/task10.cpp
 
 )

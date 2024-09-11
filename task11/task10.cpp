@@ -7,6 +7,6 @@ using namespace std;
 int main() {
     int kg1 = 4000;
     for (int i = 13; i <= 60; i++) {
-        cout << i+"kg Shakar :" << i * kg1 << endl;
+        cout << i << "kg Shakar :" << i * kg1 << endl;
     }
 }

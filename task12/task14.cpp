@@ -12,19 +12,17 @@ int main() {
         }
         cout << endl;
     }
-
     cout << endl;
-    int currentNumber = 15; // Qatorlarni boshlash uchun
     //Task
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= n; j++) {
-            if (i <= j) {
-                cout << j + currentNumber << " ";
+            if (i >= j) {
+                cout << j << " ";
             } else {
-                cout << "  ";
+                cout  << "  ";
             }
+
         }
-        currentNumber += 9; // Keyingi qator uchun boshlanish qiymatini oshirish
         cout << endl;
     }
 }

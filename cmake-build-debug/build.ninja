@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Users/azamo/CLionProjects/untitled/cmake-build-debug/
 
 build cmake_object_order_depends_target_untitled: phony || .
 
-build CMakeFiles/untitled.dir/task12/task14.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/azamo/CLionProjects/untitled/task12/task14.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\task12\task14.cpp.obj.d
+build CMakeFiles/untitled.dir/task13/task1.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/azamo/CLionProjects/untitled/task13/task1.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\task13\task1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\task12
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\task13
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/untitled.dir/task12/task14.cpp.obj: CXX_COMPILER__untitled_unsc
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/task12/task14.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/task13/task1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir

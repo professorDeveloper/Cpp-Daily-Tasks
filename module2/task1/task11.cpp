@@ -1,8 +1,6 @@
 //
-// Created by azamov on 9/17/2024.
-//
-//
-#include <iostream>
+// Created by azamov on 9/17/2024
+#include "iostream"
 using namespace std;
 
 int main() {

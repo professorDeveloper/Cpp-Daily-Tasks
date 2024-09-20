@@ -49,14 +49,8 @@ cmake_ninja_workdir = C$:/Users/azamo/CLionProjects/untitled/cmake-build-debug/
 
 build cmake_object_order_depends_target_untitled: phony || .
 
-build CMakeFiles/untitled.dir/module2/task5/task6.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/azamo/CLionProjects/untitled/module2/task5/task6.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\module2\task5\task6.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\module2\task5
-
-build CMakeFiles/untitled.dir/module2/task5/task7.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/azamo/CLionProjects/untitled/module2/task5/task7.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\module2\task5\task7.cpp.obj.d
+build CMakeFiles/untitled.dir/module2/task5/task9.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/azamo/CLionProjects/untitled/module2/task5/task9.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\module2\task5\task9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir\module2\task5
@@ -69,7 +63,7 @@ build CMakeFiles/untitled.dir/module2/task5/task7.cpp.obj: CXX_COMPILER__untitle
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/module2/task5/task6.cpp.obj CMakeFiles/untitled.dir/module2/task5/task7.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/module2/task5/task9.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir

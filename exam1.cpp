@@ -17,3 +17,5 @@ int getJuft(int number) {
 
 int main() {
 }
+
+

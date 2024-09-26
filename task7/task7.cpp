@@ -26,7 +26,6 @@ int main() {
 
     int countMusbat = (number1 > 0) + (number2 > 0) + (number3 > 0) + (number4 > 0) + (number5 > 0);
 
-    // Calculate the sum of positive integers
     int sumMusbat = (number1 > 0 ? number1 : 0) +
                     (number2 > 0 ? number2 : 0) +
                     (number3 > 0 ? number3 : 0) +

@@ -4,7 +4,6 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled
-        examSample.cpp
-        module2/task7/task1.cpp
+        module2/task8/task12.cpp
 
 )

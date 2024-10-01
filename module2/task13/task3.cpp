@@ -3,25 +3,24 @@
 //
 #include <iostream>
 using namespace std;
+
 int main() {
-    int a ;
-    int b;
-    int c;
-    cout << "Enter a number : ";
-    cin >> a;
-    cout << "Enter a number : ";
-    cin >> b;
-    cout << "Enter a number : ";
-    cin >> c;
-    if (a < b) {
-        swap(a, b);
+    string s = "Ah+sd)><*d4554a";
+    char first;
+    char second;
+    int count = 0;
+    for (int i = 0; i < s.length(); i++) {
+        if (!isdigit(s[i]) && !isalpha(s[i])) {
+            if (count == 0) {
+                first = s[i];
+                count++;
+            }else if (count == 1) {
+                second = s[i];
+                break;
+            }
+        }
     }
 
-    if (a<c) {
-        swap(a, c);
-    }
-    if (b < c) {
-        swap(b, c);
-    }
-    cout << a << " " << b << " "<< c << endl;
+    cout << first << " " << second << endl;
+    return 0;
 }

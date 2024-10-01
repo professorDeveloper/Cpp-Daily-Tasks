@@ -5,9 +5,9 @@
 using namespace std;
 
 int main() {
-    int a =7;
-    int b =4;
-    int c =5;
+    int a =21;
+    int b =16;
+    int c =15;
 
 
     if(a+b > b+c && a+b >c+a) {

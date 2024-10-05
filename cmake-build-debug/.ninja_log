@@ -3,7 +3,7 @@
 16	565	7461024267397240	CMakeFiles/untitled.dir/task2.cpp.obj	78adab9e1423bb6a
 32	913	7465272132266855	CMakeFiles/untitled.dir/task5/task7.cpp.obj	b2b82ef891c69b64
 41	2326	7488950662149083	CMakeFiles/untitled.dir/module2/task7/task12.cpp.obj	bc3731fe27ba478a
-2	276	7494945331255657	build.ninja	51d4cfba5db2469e
+5	371	7495083671674078	build.ninja	51d4cfba5db2469e
 41	598	7465224176917435	CMakeFiles/untitled.dir/task5/task3.cpp.obj	b6a61f2966e5e282
 17	432	7461014031653267	CMakeFiles/untitled.dir/main.cpp.obj	5415b263565cf8d9
 6	940	7471385859062988	CMakeFiles/untitled.dir/task7/task12.cpp.obj	e4b8a837d959b200
@@ -12,7 +12,7 @@
 11	402	7461053330138109	CMakeFiles/untitled.dir/task6.cpp.obj	5af5581f9230b5e0
 36	890	7476546363907835	CMakeFiles/untitled.dir/task10/task2.cpp.obj	c9190a6329f7025e
 25	522	7463621484103259	CMakeFiles/untitled.dir/task4/task3.cpp.obj	2748dbd60bd2eb75
-400	494	7494942749950037	untitled.exe	423ab4516c2f5281
+656	789	7494945338639405	untitled.exe	eab40e6e8db7e674
 17	591	7461053136165933	CMakeFiles/untitled.dir/task4.cpp.obj	5b401ef5f6b061ee
 30	1001	7461112016017986	CMakeFiles/untitled.dir/task3.cpp.obj	2a10e4c5d235ef3c
 5	503	7465481315560773	CMakeFiles/untitled.dir/task5/task12.cpp.obj	cd89096693d067b4
@@ -75,6 +75,7 @@
 19	410	7479420439584347	CMakeFiles/untitled.dir/task12/task10.cpp.obj	3a407c8b3c1228f3
 19	458	7485557992235677	CMakeFiles/untitled.dir/task12/task11.cpp.obj	738bd193dd6980aa
 25	705	7489582243799437	CMakeFiles/untitled.dir/module2/task8/task5.cpp.obj	b63561483c8ba282
+32	656	7494945332397121	CMakeFiles/untitled.dir/examTutorial3/task2.cpp.obj	9d118d993076193f
 14	520	7487910747928201	CMakeFiles/untitled.dir/task12/task12.cpp.obj	cde207f11a1b277d
 16	517	7479589494669421	CMakeFiles/untitled.dir/task12/task13.cpp.obj	c447d5572680c337
 11	1523	7488951303329992	CMakeFiles/untitled.dir/leetcodeTasks/Task1.cpp.obj	20c9a554838af609
@@ -163,6 +164,3 @@
 22	521	7494809607327515	CMakeFiles/untitled.dir/examTutorial/task4.cpp.obj	3a888dc27ed799bd
 26	696	7494824675642357	CMakeFiles/untitled.dir/examTutorial2/task2.cpp.obj	df3a0b7baeba40ea
 25	553	7494826603804021	CMakeFiles/untitled.dir/examTutorial2/task3.cpp.obj	bf686c26895b0ddb
-5	371	7494945331255657	build.ninja	51d4cfba5db2469e
-32	656	7494945332397121	CMakeFiles/untitled.dir/examTutorial3/task2.cpp.obj	9d118d993076193f
-656	789	7494945338639405	untitled.exe	eab40e6e8db7e674

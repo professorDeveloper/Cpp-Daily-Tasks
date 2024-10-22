@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled
 
-        leetcode/Day1Task.cpp
+        module2/task2/task4.cpp
 
 )

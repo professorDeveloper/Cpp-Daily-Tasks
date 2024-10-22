@@ -1,40 +1,28 @@
-//
-// Created by azamov on 9/17/2024.
-//
 #include <iostream>
-using namespace std;
 
-string getReverse(string s) {
-    string rev = "";
-    for (int i = s.length() - 1; i >= 0; i--) {
-        rev = rev + s[i];
+int teskari_raqam(int n) {
+    if (n >= 100 && n <= 999) {
+        int oxirgiSon = n % 10;
+        int orta_had = (n / 10) % 10;
+        int birinchi_son = n / 100;
+
+        int teskariNatija = oxirgiSon * 100 + orta_had * 10 + birinchi_son;
+        return teskariNatija;
+    } else {
+        std::cout << "3 xonali son emas!" << std::endl;
+        return -1;
     }
-    return rev;
-
-}
-
-string checkPalindrome(string str){
-    string rev = getReverse(str);
-    for (int i = 0; i < str.length(); i++) {
-        if (str[i] != rev[i]) {
-            return "false";
-        }
-    }
-
-    return "true";
-}
-string checkNum(string str) {
-    for (int i = 0; i < str.length(); i++) {
-        if (isalpha(str[i])) {
-            return "false";
-        }
-    }
-    return "true";
 }
 
 int main() {
-    string  str ="loll";
-    cout << getReverse(str) << endl;
-    cout << checkPalindrome(str) << endl;
-    cout << checkNum(str) << endl;
+    int n;
+    std::cout << "3 xonali son kiriting: ";
+    std::cin >> n;
+    int teskariRaqam = teskari_raqam(n);
+    if (teskariRaqam != -1) {
+        std::cout << "kiritilgan raqam abc teskari xolatga o`tgani cba ->  " << teskariRaqam << std::endl;
+    }
+    return 0;
 }
+ 
+
